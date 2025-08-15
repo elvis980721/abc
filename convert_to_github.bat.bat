@@ -48,6 +48,8 @@ echo *.booproj
 :: 初始化 Git
 echo 🔄 初始化 Git...
 git init
+
+:: 自動加入所有檔案（包含 Unity 生成的新檔案）
 git add .
 git commit -m "Initial commit from Plastic SCM"
 
@@ -59,5 +61,5 @@ git remote add origin %repoURL%
 git branch -M main
 git push -u origin main
 
-echo ✅ 專案已成功轉移到 GitHub！
+echo ✅ 專案已成功轉移到 GitHub 並同步！
 pause
