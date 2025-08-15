@@ -1,21 +1,22 @@
-# Unity
+# Unity generated files
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
-ECHO is off.
-# OS generated files
-.DS_Store
-Thumbs.db
-ECHO is off.
-# Visual Studio
-.vs/
+[Uu]serSettings/
+/[Pp]ackages/
 *.csproj
 *.sln
+*.suo
+*.tmp
 *.user
-*.unityproj
+*.userprefs
 *.pidb
 *.booproj
+*.svd
+*.pdb
+*.mdb
+*.unityproj
+*.DS_Store
