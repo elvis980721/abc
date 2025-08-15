@@ -1,0 +1,10 @@
+# ninja log v5
+28	902	7757721529175224	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	9c27b5004b19074e
+35	913	7757721529205738	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	53dcaf4f1711f4c3
+13	927	7757721529459499	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	827d565fec2e0e76
+50	948	7757721529683099	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	58581ede84240fe5
+0	982	7757721529958596	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7b164c8e33419ca8
+42	1049	7757721530700108	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5e57a5b45048f201
+20	1141	7757721531604509	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	76e652d426989fa7
+8	1245	7757721532584711	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	31646e0ec3cb61dc
+1246	1383	7757721534019906	C:/Users/User/Downloads/unity-AI-Chat-Toolkit-main/unity-AI-Chat-Toolkit-main/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2f4r1q2q/obj/x86_64/libgame.so	9e5993625a5dd6cd

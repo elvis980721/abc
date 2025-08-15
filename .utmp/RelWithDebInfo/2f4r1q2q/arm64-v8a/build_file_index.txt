@@ -1,0 +1,2 @@
+C:\Users\User\Downloads\unity-AI-Chat-Toolkit-main\unity-AI-Chat-Toolkit-main\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\User\Downloads\unity-AI-Chat-Toolkit-main\unity-AI-Chat-Toolkit-main\My project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
